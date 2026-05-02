@@ -1,3 +1,3 @@
-Alumno: TU_NOMBRE
-División: TU_DIVISION
-Turno: TU_TURNO
+Alumno: Melina
+División: 113
+Turno: Mañana
