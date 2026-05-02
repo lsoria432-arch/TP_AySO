@@ -1,0 +1,1 @@
+model name	: AMD Ryzen 3 3250U with Radeon Graphics
