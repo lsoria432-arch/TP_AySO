@@ -1,0 +1,442 @@
+echo hola
+echo "hola
+echo "hola"
+echo $HOME
+vagrant up
+
+cd .ssh
+ls -l
+cat id_ed25519
+ssh-keygen -t ed 25519
+ls
+echo $HOME
+man echo
+clean
+l
+pwd
+ls
+cd clase4
+ls -l
+mkdir clase4d
+ls -l
+cd clase4d/
+pwd
+ls -l
+history
+cat > archivo1.txt
+ls -l
+cat archivo.txt
+cat archivo1.txt
+cat > archivo2.txt
+ls -l
+cat archivo1.txt archivo2.txt > archivo3.txt
+ls -l
+cat archivo3.txt
+grap Linea4 archivo3.txt
+grep Linea4 archivo3.txt
+cd ..
+pwd
+ssh-keygen -t ed25519
+ls -l
+ls -la
+cd .ssh
+ls -l
+cat id_ed25519.pub
+pwd
+ls -l
+cd repogit
+ls -l
+git clone git@github.com:lsoria432-arch/vmvagrant_repo.git
+ls -l
+cd vmvagrant_repo/
+ls -l
+echo "Mi primer repo"
+echo "Mi primer repo" > texto1.txt
+ls -l
+cat texto1.txt
+cd repogit/
+cd vmvagrant_repo
+git add .
+git status
+git commit -m "Agrego texto1.txt"
+cd repogit/
+cd vmvagrant_repo/
+git config --global user.name "lsoria432-arch"
+git commit -m "Agrego texto1.txt"
+git status
+ls -l
+git push
+ls -l
+vagrant halt
+exit
+pwd
+ls -l
+cd clase4d
+ls -l
+cat archivo3.txt
+grep linea3 archivo3.txt
+grep -i linea3 atchivo3.txt
+grep -i linea3 archivo3txt
+grep -i linea3 archivo3.txt
+grep -i 3 archivo3.txt
+grep -i linea archivo3.txt
+grep -c 3 archivo3.txt
+grep -ci linea archivo.txt
+grep -n 3 archivo3.txt
+valgrant halt
+cd vagrant
+vagrant ssh
+ls
+cd repogit
+...
+add
+exit
+ls -l
+cd clase4d
+ls -l
+cat achivo3.txt
+cat archivo3.txt
+cat archivo1.txt
+grep -i 3 archivo3.txt
+pwd
+clean
+clear
+tree
+sudo apt update
+sudo apt install tree
+ls -l
+cd ..
+pwd
+tree
+ls -l
+mkdir clase5
+ls -
+ls -l
+cd clase5
+pwd
+ls -l
+mkdir practica
+ls -l
+cd practica
+touch practica1.txt
+ls -l
+cat practica1.txt
+cp practica1.txt
+cp practica1.txt practica2.txt
+ls -l
+rm practica1.txt
+ls -l
+exit
+ls -l
+cd clase5
+ls -l
+mkdir practica2.txt
+ls -l
+rm practica
+ls -l
+pwd
+cd practica
+mv practica2.txt /home/vagrant/clase5/
+mv practica2.txt /home/vagrant/clase5
+pwd
+ls
+ls -l
+pwd
+mv practica2.txt/home/vagrant/clase5.txt
+mv --help
+ls -l
+cd ..
+mv practica2.txt /home/vagrant/clase5/
+cd practica
+mv practica2.txt /home/vagrant/clase5
+ls -l
+rm practica
+mv practica2.txt /home/vagrant/clase5/practica2_nuevo.txt
+ls -l
+cd ..
+ls -l
+rmdir practica/
+ls -l
+rm practica2_nuevo.txt
+ls -l
+pwd
+mkdir facturas pedidos
+tree
+mkdir -p clientes/{facturas,pedidos}
+tree
+mkdir -p {clientes,proveedores}/{facturas,pedidos}
+tree
+mkdir -p contactos/{clientes,proveedores}/{facturas,pedidos}
+tree
+mkdir -p {mama,papa}/{hijo1,hijo2,hijo3}
+tree
+rm mama 
+mkdir -p {mama}/hijo{1,3}/{papa}/hijo{1,3,ahijado}
+tree
+mkdir {mama,papa}/{hijo 1,2,3,}/{ahijado}
+tree
+mkdir -p {mama/hijo{1,3},papa{hijo{1,3},ahijado}}
+tree
+mkdir -p {mama,papa}/hijo{1,3}/papa{ahijado}
+tree
+mkdir -p {mama,papa}/{hijoo1,hijo2,hijo3}
+tree
+pwd
+grep vagrant /etc
+grep vagrant /etc/passwd
+cat /etc/passwd
+sudo cat /etc/ahadow
+cd vagrant
+exit
+ssh-keygen -t ed25519
+.pub
+cat $HOME/.ssh/*.pub
+ls -l
+ls ~/.ssh
+cat ~/.ssh/id_rsa.pub
+cd $HOME
+cat $HOME/.ssh/*.pub
+clear
+cd change dir
+ls -l
+twd
+pwd
+ssh-keygen -t ed25519
+clear
+ssh-keygen -t ed 25519
+cd ..
+ls -l
+pwd
+ssh-keygen -t ed25519
+ls -l
+cat $HOME/.ssh/*.pub
+cd change dir
+mkdir repogit
+cd repogit
+vagrant ssh
+exit
+echo $HOME
+cd reppogit
+cd repogit
+cd $HOME
+cd repogit
+cd TP_AySO
+pwd
+ls -l
+cp git@github.com:lsoria432-arch/TP_AySO.git
+git clone cp: missing destination file operand after 'git@github.com:lsoria432-arch/TP_AySO.git'
+exit
+cat vagrantfile
+ls
+ls -la
+cd repogit
+pwd
+cd Tp AySO/
+cd repogit/TP_AySO
+mkdir repogit
+cd repogit
+git clone git@github.com:lsoria432-arch/TP_AySO.git
+pwd
+cd Tp AySO
+cd TP_AySO
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep <parámetro> Home_url /etc/os-release
+grep -i Home_url /etc/os-release
+grep -i /etc/os-release >
+datos_url.tx
+grep -i /etc/os-release > datos_url.tx
+mkdir repogit
+cd TP_AySO
+cd Tp_AySO
+cd repogit
+cd TP_AySO
+cd Tp_AySO
+cd TP_AySO
+mkdir TP_AySO
+pwd
+cd TP_AySO
+git clone git@github.com:lsoria432-arch/TP_AySO.git
+cd TP_AySO/
+cd ..
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep -i Home_url /etc/os-release
+Home_url /etc/os-release > datos_url.txt
+grep Home_url /etc/os-release >
+datos_url.txt
+grep > Home_url /etc/os-release >
+datos_url.txt
+grep -i Home_url /etc/os-release > datos_url.txt
+echo “Usuario=$(whoami)” > datos_usuario.txt
+git add .
+git add
+.git add
+git add .
+whoami
+ls
+git add
+clear
+man grep
+greo -i HOME_URL /etc/os-release
+grep -i HOME_URL /etc/os-release
+grep home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos:usuario.txt
+ls
+rm datos_usuario.txt
+ls
+git add .
+pwd
+ls
+cd repogit
+exit
+cd repogit
+mkdir repogit
+cd ..
+mkdir repogit
+cd repogit
+git clone git@github.com:lsoria432-arch/TP_AySO.git
+cd TP_AySO
+ls -l
+clear
+pwd
+ls -l
+id -un
+whoami yo
+whoami
+clear
+pwd
+ls -l
+git add.
+git add .
+ls
+cd repogit
+mkdir repogit
+cd repogit
+ls
+ls -l
+cd home
+mkdir repogit
+cd repogit
+cd TP_AySO
+pwd
+ls -l
+mkdir README.md
+ls -l
+cd repogit
+git add .
+rm TP_AySO
+rm repogit
+rm -r repogit
+ssh-keygen -t ed25519
+ls
+ls -l
+cat $HOME/.ssh/*.pub
+mkdir repogit
+mkdir reppogit
+cd reppogit
+ls
+pwd
+git clon git@github.com:lsoria432-arch/TP_AySO.git
+rm git@github.com:lsoria432-arch/TP_AySO.git
+cd repogit
+cd TP_AySO
+cd repogit
+ls
+cd TP_AySO/
+ls -l
+git status
+cd TP_AySO
+cd ..
+d ..
+cd ..
+cd TP_AySO
+ls -a
+cd TP_AySO
+ls -a
+git status
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git status
+git add .
+commit
+git commit
+git status
+git push
+git pull origin main --allow-unrelated-histories
+git status
+pwd
+ls -a
+git add.
+git add .
+git config --global user.email lsoria432@gmail.com
+git config --global user.name lsoria432-arch
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios txt"
+git pull
+git pull origin main --no-rebase --allow-unrelated-histories
+rm README.md
+git pull
+git add .
+--global user.email lsoria432@gmail.com
+git config --global user.email lsoria432@gmail.com
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt"
+git status
+git push
+git status
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuarios.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+git commit -m “feat: Añadiendo información de CPU”
+git commit -m "feat: añadiendo información de CPU"
+git add .
+git status
+git push
+git status
+git commit -m "feat: Añadi info"
+ls -a
+ls -l
+cat <<EOF >> README.md
+Alumno: TU_NOMBRE
+División: TU_DIVISION
+Turno: TU_TURNO
+EOF
+
+git add README.md datos_usuarios.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+pwd
+cd ..
+pwd
+cd ..
+pwd
+mkdir -p {materia1,materia2}/uni{1,2,3}
+tree
+mkdir script_dir.sh
+chmod +x script_dir.sh
+git add .
+cv repogit
+cd repogit
+cd TP_AySO
+ls -l
+sl -a
+ls -a
+cd TP_AySO
+ls -a
+mkdir script_dir.sh
+chmod +x script_dir.sh
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+PATHS Relativo…
+paths relativo...
+PATHS relativo...
+paths relativo...
+history -a
+cp ~/.bash_history Historial_comandos_TuApellido.txt
